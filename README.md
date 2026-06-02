@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/glow-in-the-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Glow In The Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/glow-in-the-dark/) |
+| **Get License** | [Obtain a Music License for Glow In The Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/glow-in-the-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> When the world powers down and the porch light fades
+> I pull you close in the twilight shades
+> Just the sound of our breath in the silent room
+> You are the spark in the midnight gloom
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
